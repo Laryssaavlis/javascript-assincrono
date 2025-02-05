@@ -1,5 +1,5 @@
 const BASE_URL = 'https://thatcopy.pw/catapi/rest/';
-const btn = document.getElementById('change-cat');
+const catBtn = document.getElementById('change-cat');
 
 const getCats = async () => {
 	try {
